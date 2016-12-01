@@ -21,7 +21,7 @@ python3 main.py --file dataFiles/normalSales.csv [--shipping (normal|sale)]
 --shipping is optional and takes one option, either normal or sale to determine how to price shipping
 
 ```
-
+ testing
 
 
 Student Tasks
